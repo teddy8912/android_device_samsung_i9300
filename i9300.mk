@@ -31,7 +31,7 @@ PRODUCT_AAPT_PREF_CONFIG := xhdpi
 
 # Init files
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/rootdir/fstab.smdk4x12:root/fstab.smdk4x12 \
+    $(LOCAL_PATH)/rootdir/fstab.SHV-E210S:root/fstab.SHV-E210S \
     $(LOCAL_PATH)/rootdir/init.target.rc:root/init.target.rc
 
 # Audio

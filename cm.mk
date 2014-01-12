@@ -15,7 +15,7 @@ $(call inherit-product, device/samsung/i9300/full_i9300.mk)
 PRODUCT_DEVICE := i9300
 PRODUCT_NAME := cm_i9300
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := GT-I9300
+PRODUCT_MODEL := SHV-E210S
 PRODUCT_MANUFACTURER := samsung
 
 # Set build fingerprint / ID / Product Name ect.
